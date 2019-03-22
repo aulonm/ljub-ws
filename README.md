@@ -1,6 +1,8 @@
-# Ljubljana workshop
+# Strömstad workshop
 
 > Introduction to cryptography
+
+You can download boilerplate from the `./boilerplate/` folder if you want to skip straight to the crypto (And start at problem 5). 
 
 ## Usage
 
