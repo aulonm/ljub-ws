@@ -13,7 +13,7 @@ Learn cryptographic engineering through a set of exercises.
 ## Install
 
 ```sh
-git clone https://github.com/narhen/ljub-ws.git
+https://github.com/aulonm/stromstad-ws.git
 ```
 
 ## License
